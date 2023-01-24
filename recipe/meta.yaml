@@ -28,8 +28,10 @@ requirements:
     - eemont
     - geedim
     - geemap
+    - numpy
     - pyyaml
     - termcolor
+    - tqdm
     - yamale
 
 test:
